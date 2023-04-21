@@ -1,6 +1,6 @@
 # Webstorm configs
 
-## .editorconfig (built in, not prettier)
+## .editorconfig (built-in, not prettier)
 Create file .editorconfig in root of your project
 
 ### Settings - setup .editorconfigs file
