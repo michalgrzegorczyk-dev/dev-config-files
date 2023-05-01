@@ -8,8 +8,7 @@ Path: Editor -> Code Style -> EditorConfig <br>
 Scheme: Project <br>
 
 ### Settings - set actions on save
-
-!!! Select proper files to make below actions (by default, it selects Prisma only somehow)
+Select proper files to make below actions (by default, it selects Prisma only somehow)
 
 Path: Tools -> Actions on Save <br>
 - Reformat code <br>
