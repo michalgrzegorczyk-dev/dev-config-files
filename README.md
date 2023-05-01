@@ -1,7 +1,7 @@
 # Webstorm configs
 
 ## .editorconfig (built-in, not prettier)
-Create file .editorconfig in root of your project
+Create the file .editorconfig in root path of your project
 
 ### Settings - setup .editorconfigs file
 Path: Editor -> Code Style -> EditorConfig <br>
