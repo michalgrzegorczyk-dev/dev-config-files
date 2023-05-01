@@ -12,8 +12,8 @@ Select proper files to make below actions (by default, it selects Prisma only so
 
 Path: Tools -> Actions on Save <br>
 - Reformat code <br>
-- optimize imports <br>
-- rearrange code 
+- Optimize imports <br>
+- Rearrange code 
 
 ## Daily Webstorm Plugins
 - [One Dark theme](https://plugins.jetbrains.com/plugin/11938-one-dark-theme)
