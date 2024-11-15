@@ -17,7 +17,7 @@ TypeScript & Angular
 - Utilize optional chaining and nullish coalescing.
 - Use standalone components when applicable.
 - Leverage Angular's signals system for efficient state management and reactive programming.
-- Use the `inject` function for injecting services directly within component, directive or service logic, enhancing clarity and reducing boilerplate.
+- Use the `inject` function instead of constructors for injecting services directly within component, directive or service logic, enhancing clarity and reducing boilerplate.
 - Use modern standalone where applicable rather than `@NgModule` approach.
 - Make components and directives very robust and reusable where applicable.
 
